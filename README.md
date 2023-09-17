@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank">Voting Poll App</p>
+<p align="center">Voting Poll App</p>
 
 ## Setup instructions
 
@@ -44,4 +44,4 @@ Test cases written for
 - Logout
 
 
-<h2>Thanks.</h2>
+<h2  align="center">Thanks.</h2>
