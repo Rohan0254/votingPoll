@@ -13,6 +13,9 @@ Run these commands in CMD in project root.
 Configure Database
 - Create Database named 'votingpole'
 
+Configure .env file
+- Rename .env.example file to .env
+
 Now To Migrate Table use below command
 - php artisan migrate
 
