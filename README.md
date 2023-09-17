@@ -5,6 +5,9 @@
 Use Below Command To Clone Repo.
 - git clone https://github.com/Rohan0254/votingPoll.git
 
+Now go to project directory
+- cd votingPoll
+
 Configure Database
 - Create Database named 'votingpole'
 
