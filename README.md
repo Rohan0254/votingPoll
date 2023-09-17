@@ -8,6 +8,8 @@ Use Below Command To Clone Repo.
 Now go to project directory
 - cd votingPoll
 
+Run these commands in CMD in project root.
+
 Configure Database
 - Create Database named 'votingpole'
 
