@@ -2,27 +2,29 @@
 
 ## Setup instructions
 
-Use Below Command To Clone Repo.
+1. Use Below Command To Clone Repo.
 - git clone https://github.com/Rohan0254/votingPoll.git
 
-Now go to project directory
+2. Now go to project directory
 - cd votingPoll
 
 Run these commands in CMD in project root.
 
-Configure Database
+1. Configure Database
 - Create Database named 'votingpole'
 
-Configure .env file
+2. Configure .env file
 - Rename .env.example file to .env
 
-Now To Migrate Table use below command
+3. Now To Migrate Table use below command
 - php artisan migrate
 
-Run App
+
+4. Run App
+- php artisan key:generate
 - php artisan serve
 
-App Navigations
+5. App Navigations
 - Login
 - Register
 - Profile
